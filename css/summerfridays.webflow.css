@@ -6808,7 +6808,7 @@ blockquote {
   grid-template-columns: 3.75fr 25px;
 }
 
-.div-block-321 {
+.brandcontainergrid {
   position: relative;
 }
 
@@ -7093,7 +7093,7 @@ blockquote {
   background-color: transparent;
 }
 
-.image-51 {
+.brandsideimage {
   position: relative;
   left: -6%;
   top: 179px;
@@ -8215,7 +8215,7 @@ blockquote {
     grid-template-columns: 4.5fr 25px;
   }
 
-  .div-block-321 {
+  .brandcontainergrid {
     padding-right: 40px;
   }
 
@@ -8314,7 +8314,7 @@ blockquote {
     min-width: auto;
   }
 
-  .image-51 {
+  .brandsideimage {
     top: 220px;
     margin-top: -37px;
   }
@@ -8786,7 +8786,7 @@ blockquote {
     min-width: 380px;
   }
 
-  .div-block-321 {
+  .brandcontainergrid {
     padding-right: 0px;
   }
 
@@ -9445,7 +9445,7 @@ blockquote {
     min-height: 330px;
   }
 
-  .image-51 {
+  .brandsideimage {
     left: -5%;
     top: 247px;
     padding-left: 6px;
@@ -9534,7 +9534,7 @@ blockquote {
   grid-row-start: 1;
 }
 
-#w-node-_86ddbfee-580c-ff1e-4e87-ab1099eebeab-1ebf91dc {
+#BrandHeroImage.w-node-_86ddbfee-580c-ff1e-4e87-ab1099eebeab-1ebf91dc {
   -ms-grid-column-span: 1;
   grid-column-end: 3;
   -ms-grid-column: 2;
@@ -9591,6 +9591,39 @@ blockquote {
   justify-self: end;
 }
 
+#w-node-_8cc4c4c2-f5be-4ddf-2500-d98f65063816-f7cc72a4 {
+  -ms-grid-column-span: 2;
+  grid-column-end: 3;
+  -ms-grid-column: 1;
+  grid-column-start: 1;
+  -ms-grid-row-span: 2;
+  grid-row-end: 3;
+  -ms-grid-row: 1;
+  grid-row-start: 1;
+}
+
+#BrandHeroImage.w-node-_8cc4c4c2-f5be-4ddf-2500-d98f6506383f-f7cc72a4 {
+  -ms-grid-column-span: 1;
+  grid-column-end: 3;
+  -ms-grid-column: 2;
+  grid-column-start: 2;
+  -ms-grid-row-span: 1;
+  grid-row-end: 2;
+  -ms-grid-row: 1;
+  grid-row-start: 1;
+}
+
+#w-node-_8cc4c4c2-f5be-4ddf-2500-d98f65063840-f7cc72a4 {
+  -ms-grid-column-span: 2;
+  grid-column-end: 3;
+  -ms-grid-column: 1;
+  grid-column-start: 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: 2;
+  -ms-grid-row: 1;
+  grid-row-start: 1;
+}
+
 @media screen and (max-width: 991px) {
   #w-node-_86ddbfee-580c-ff1e-4e87-ab1099eebe82-1ebf91dc {
     -ms-grid-column-span: 1;
@@ -9617,10 +9650,32 @@ blockquote {
     -ms-grid-column-align: center;
     justify-self: center;
   }
+
+  #w-node-_8cc4c4c2-f5be-4ddf-2500-d98f65063816-f7cc72a4 {
+    -ms-grid-column-span: 1;
+    grid-column-end: 2;
+    -ms-grid-column: 1;
+    grid-column-start: 1;
+    -ms-grid-row-span: 2;
+    grid-row-end: 3;
+    -ms-grid-row: 1;
+    grid-row-start: 1;
+  }
 }
 
 @media screen and (max-width: 767px) {
   #w-node-_86ddbfee-580c-ff1e-4e87-ab1099eebe82-1ebf91dc {
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+  }
+
+  #w-node-_8cc4c4c2-f5be-4ddf-2500-d98f65063816-f7cc72a4 {
     -ms-grid-row: span 1;
     grid-row-start: span 1;
     -ms-grid-row-span: 1;
@@ -9655,7 +9710,7 @@ blockquote {
     grid-row-start: 1;
   }
 
-  #w-node-_86ddbfee-580c-ff1e-4e87-ab1099eebeab-1ebf91dc {
+  #BrandHeroImage.w-node-_86ddbfee-580c-ff1e-4e87-ab1099eebeab-1ebf91dc {
     -ms-grid-column-span: 2;
     grid-column-end: 3;
     -ms-grid-column: 1;
@@ -9667,6 +9722,50 @@ blockquote {
   }
 
   #w-node-_86ddbfee-580c-ff1e-4e87-ab1099eebeac-1ebf91dc {
+    -ms-grid-column-span: 2;
+    grid-column-end: 3;
+    -ms-grid-column: 1;
+    grid-column-start: 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: 2;
+    -ms-grid-row: 1;
+    grid-row-start: 1;
+  }
+
+  #w-node-_8cc4c4c2-f5be-4ddf-2500-d98f65063816-f7cc72a4 {
+    -ms-grid-row: span 1;
+    grid-row-start: span 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: span 1;
+    -ms-grid-column: span 1;
+    grid-column-start: span 1;
+    -ms-grid-column-span: 1;
+    grid-column-end: span 1;
+  }
+
+  #w-node-_8cc4c4c2-f5be-4ddf-2500-d98f65063818-f7cc72a4 {
+    -ms-grid-column-span: 1;
+    grid-column-end: 2;
+    -ms-grid-column: 1;
+    grid-column-start: 1;
+    -ms-grid-row-span: 1;
+    grid-row-end: 2;
+    -ms-grid-row: 1;
+    grid-row-start: 1;
+  }
+
+  #BrandHeroImage.w-node-_8cc4c4c2-f5be-4ddf-2500-d98f6506383f-f7cc72a4 {
+    -ms-grid-column-span: 2;
+    grid-column-end: 3;
+    -ms-grid-column: 1;
+    grid-column-start: 1;
+    -ms-grid-row-span: 2;
+    grid-row-end: 3;
+    -ms-grid-row: 1;
+    grid-row-start: 1;
+  }
+
+  #w-node-_8cc4c4c2-f5be-4ddf-2500-d98f65063840-f7cc72a4 {
     -ms-grid-column-span: 2;
     grid-column-end: 3;
     -ms-grid-column: 1;
