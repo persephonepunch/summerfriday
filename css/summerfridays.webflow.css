@@ -3099,7 +3099,7 @@ blockquote {
 }
 
 .cart-remove-link {
-  color: #c9002b;
+  color: #000000;
 }
 
 .cart-button {
@@ -3112,7 +3112,7 @@ blockquote {
   -ms-flex-pack: center;
   justify-content: center;
   background-color: transparent;
-  background-image: url('../images/icon---bag1x.png');
+  background-image: url('https://summerfridaycdn.netlify.app/images/icon---bag1x.png');
   background-position: 50% 50%;
   background-size: 20px 20px;
   background-repeat: no-repeat;
@@ -3354,7 +3354,7 @@ blockquote {
   box-shadow: 11px 7px 10px -7px #ccc;
   -webkit-transition: box-shadow 400ms ease-in-out;
   transition: box-shadow 400ms ease-in-out;
-  color: #b22222;
+  color: #222222;
   text-decoration: none;
 }
 
@@ -3587,11 +3587,11 @@ blockquote {
   -webkit-transform: translate(2px, 0px);
   -ms-transform: translate(2px, 0px);
   transform: translate(2px, 0px);
-  color: #c9002b;
+  color: #222222;
 }
 
 .footer-link:focus {
-  color: #b22222;
+  color: #222222;
 }
 
 .footer-link:visited {
@@ -5118,7 +5118,7 @@ blockquote {
 
 .slide-3 {
   border-right: 1px none #000;
-  background-image: url('../images/pack1.jpg');
+  background-image: url('https://summerfridaycdn.netlify.app/images/pack1.jpg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -5989,7 +5989,7 @@ blockquote {
 .mini-cart-featured-image {
   width: 80px;
   height: 80px;
-  background-image: url('../images/pack1.jpg');
+  background-image: url('https://summerfridaycdn.netlify.app/images/pack1.jpg');
   background-position: 50% 50%;
   background-size: cover;
   box-shadow: 1px 1px 3px 0 #d6d6d6;
@@ -6232,8 +6232,8 @@ blockquote {
   display: flex;
   height: 63px;
   min-width: auto;
-  padding-right: 9px;
-  padding-left: 9px;
+  padding-right: 10px;
+  padding-left: 10px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -6262,13 +6262,18 @@ blockquote {
 
 .navlinkmain.current {
   border-style: solid;
-  border-width: 0px 0px 1px;
+  border-width: 0px 0px 2px;
   border-color: #000;
   font-family: adobe-garamond-pro, sans-serif;
   font-size: 1.3em;
   font-style: italic;
   letter-spacing: 0px;
   text-transform: none;
+}
+
+.navlinkmain.current:hover {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
 }
 
 .footer-social-box {
@@ -6641,7 +6646,7 @@ blockquote {
   -webkit-flex: 0 auto;
   -ms-flex: 0 auto;
   flex: 0 auto;
-  background-image: url('../images/rectangle-1391x.png');
+  background-image: url('https://summerfridaycdn.netlify.app/images/rectangle-1391x.png');
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -6705,7 +6710,7 @@ blockquote {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 400px;
+  width: auto;
   height: 62px;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
@@ -6728,7 +6733,7 @@ blockquote {
 }
 
 .summernavlink:hover {
-  border-bottom: 2px solid #000;
+  border-bottom: 0px solid #000;
   font-family: adobe-garamond-pro, sans-serif;
   font-size: 10px;
   font-style: italic;
@@ -6924,13 +6929,17 @@ blockquote {
 }
 
 .logo-center {
-  position: relative;
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: auto;
+  bottom: auto;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  max-width: 400px;
-  min-width: 400px;
+  max-width: 33%;
+  min-width: auto;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -6956,7 +6965,7 @@ blockquote {
   flex-direction: row;
   border-bottom: 1px solid #000;
   background-color: #e8e3dc;
-  background-image: url('../images/rectangle-1391x.png');
+  background-image: url('https://summerfridaycdn.netlify.app/images/rectangle-1391x.png');
   background-position: 50% 50%;
   background-size: auto;
 }
@@ -6993,7 +7002,7 @@ blockquote {
 .section-footer {
   border-bottom: 1px solid #000;
   background-color: #c1d2db;
-  background-image: url('../images/rectangle-1391x.png');
+  background-image: url('https://summerfridaycdn.netlify.app/images/rectangle-1391x.png');
   background-position: 0px 0px;
   background-size: auto;
 }
@@ -7066,7 +7075,7 @@ blockquote {
   padding-left: 35px;
   border: 1px solid #000;
   background-color: transparent;
-  background-image: url('../images/arrow.svg');
+  background-image: url('https://summerfridaycdn.netlify.app/images/arrow.svg');
   background-position: 50% 50%;
   background-size: 20px 20px;
   background-repeat: no-repeat;
@@ -7144,7 +7153,7 @@ blockquote {
   height: 60px;
   border-radius: 300px;
   background-color: #0f0f0f;
-  background-image: url('../images/arrowuppaleblue.svg');
+  background-image: url('https://summerfridaycdn.netlify.app/images/arrowuppaleblue.svg');
   background-position: 50% 50%;
   background-size: 37px;
   background-repeat: no-repeat;
@@ -7439,7 +7448,7 @@ blockquote {
   height: 35px;
   padding: 0px;
   background-color: transparent;
-  background-image: url('../images/bag.svg');
+  background-image: url('https://summerfridaycdn.netlify.app/images/bag.svg');
   background-position: 0px 0px;
   background-size: auto;
 }
@@ -8156,7 +8165,7 @@ blockquote {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    background-image: url('../images/bars.svg');
+    background-image: url('https://summerfridaycdn.netlify.app/images/bars.svg');
     background-position: 50% 50%;
     background-size: 35px;
     background-repeat: no-repeat;
@@ -8252,8 +8261,11 @@ blockquote {
 
   .about-right {
     width: 100%;
+    margin-top: 5px;
     margin-right: auto;
     margin-left: auto;
+    padding-top: 74px;
+    padding-bottom: 66px;
     -webkit-box-align: center;
     -webkit-align-items: center;
     -ms-flex-align: center;
@@ -8810,7 +8822,7 @@ blockquote {
   }
 
   .sectionbrand {
-    padding-top: 20px;
+    padding-top: 66px;
   }
 
   .image-50 {
@@ -9364,9 +9376,7 @@ blockquote {
   .aboutright {
     width: 100%;
     margin-top: 13px;
-    padding-top: 20px;
-    padding-right: 20px;
-    padding-left: 20px;
+    padding: 20px 0px 69px;
   }
 
   .search {
