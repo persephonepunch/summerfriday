@@ -6937,7 +6937,7 @@ blockquote {
 }
 
 .logo-center {
-  position: relative;
+  position: absolute;
   left: auto;
   top: auto;
   right: auto;
