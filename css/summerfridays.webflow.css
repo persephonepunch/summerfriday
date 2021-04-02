@@ -16,7 +16,7 @@
 }
 
 .w-commerce-commercecartopenlink {
-  background-color: #3898ec;
+  background-color: #000000;
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
   border-top-left-radius: 0px;
@@ -57,7 +57,7 @@
   border-top-left-radius: 9px;
   border-top-right-radius: 9px;
   background-color: #fff;
-  color: #3898ec;
+  color: #222222;
   font-size: 11px;
   line-height: 18px;
   font-weight: 700;
@@ -384,10 +384,10 @@
 }
 
 .w-commerce-commercecartquantity:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -536,7 +536,7 @@
 }
 
 .w-commerce-commercecartcheckoutbutton {
-  background-color: #3898ec;
+  background-color: #222222;
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
   border-top-left-radius: 2px;
@@ -668,15 +668,15 @@
 }
 
 .w-commerce-commerceaddtocartquantityinput:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
 .w-commerce-commerceaddtocartbutton {
-  background-color: #3898ec;
+  background-color: #222222;
   border-bottom-left-radius: 0px;
   border-bottom-right-radius: 0px;
   border-top-left-radius: 0px;
@@ -948,10 +948,10 @@
 }
 
 .w-commerce-commercecheckoutemailinput:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1008,10 +1008,10 @@
 }
 
 .w-commerce-commercecheckoutshippingfullname:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1064,10 +1064,10 @@
 }
 
 .w-commerce-commercecheckoutshippingstreetaddress:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1120,10 +1120,10 @@
 }
 
 .w-commerce-commercecheckoutshippingstreetaddressoptional:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1200,10 +1200,10 @@
 }
 
 .w-commerce-commercecheckoutshippingcity:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1256,10 +1256,10 @@
 }
 
 .w-commerce-commercecheckoutshippingstateprovince:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1312,10 +1312,10 @@
 }
 
 .w-commerce-commercecheckoutshippingzippostalcode:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1368,10 +1368,10 @@
 }
 
 .w-commerce-commercecheckoutshippingcountryselector:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1508,18 +1508,18 @@
 }
 
 .w-commerce-commercecheckoutcardnumber:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
 .w-commerce-commercecheckoutcardnumber.-wfp-focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1573,18 +1573,18 @@
 }
 
 .w-commerce-commercecheckoutcardexpirationdate:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
 .w-commerce-commercecheckoutcardexpirationdate.-wfp-focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1638,18 +1638,18 @@
 }
 
 .w-commerce-commercecheckoutcardsecuritycode:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
 .w-commerce-commercecheckoutcardsecuritycode.-wfp-focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1728,10 +1728,10 @@
 }
 
 .w-commerce-commercecheckoutbillingfullname:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1784,10 +1784,10 @@
 }
 
 .w-commerce-commercecheckoutbillingstreetaddress:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1840,10 +1840,10 @@
 }
 
 .w-commerce-commercecheckoutbillingstreetaddressoptional:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1896,10 +1896,10 @@
 }
 
 .w-commerce-commercecheckoutbillingcity:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -1952,10 +1952,10 @@
 }
 
 .w-commerce-commercecheckoutbillingstateprovince:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -2008,10 +2008,10 @@
 }
 
 .w-commerce-commercecheckoutbillingzippostalcode:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -2064,10 +2064,10 @@
 }
 
 .w-commerce-commercecheckoutbillingcountryselector:focus {
-  border-top-color: #3898ec;
-  border-right-color: #3898ec;
-  border-bottom-color: #3898ec;
-  border-left-color: #3898ec;
+  border-top-color: #222222;
+  border-right-color: #222222;
+  border-bottom-color: #222222;
+  border-left-color: #222222;
   outline-style: none;
 }
 
@@ -2202,7 +2202,7 @@
 }
 
 .w-commerce-commercecheckoutplaceorderbutton {
-  background-color: #3898ec;
+  background-color: #222222;
   border-bottom-left-radius: 3px;
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
@@ -3099,7 +3099,7 @@ blockquote {
 }
 
 .cart-remove-link {
-  color: #000000;
+  color: #c9002b;
 }
 
 .cart-button {
@@ -6385,6 +6385,10 @@ blockquote {
   flex: 0 auto;
 }
 
+.footerscroll {
+  overflow: hidden;
+}
+
 .about-shopvegan50 {
   display: -webkit-box;
   display: -webkit-flex;
@@ -6489,6 +6493,7 @@ blockquote {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  overflow: visible;
   width: 200%;
 }
 
@@ -7757,6 +7762,10 @@ blockquote {
   min-height: auto;
 }
 
+.body-2 {
+  overflow: hidden;
+}
+
 @media screen and (max-width: 991px) {
   .preloader {
     z-index: 9999999999999;
@@ -8225,6 +8234,10 @@ blockquote {
 
   .menu-button-2.w--open:hover {
     background-color: transparent;
+  }
+
+  .footerlogo {
+    overflow: hidden;
   }
 
   .aboutfounderhero {
